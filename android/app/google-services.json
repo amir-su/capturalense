@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756150265167",
+    "project_id": "capturalens-84b72",
+    "storage_bucket": "capturalens-84b72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756150265167:android:7947067b6cc3f6f6f3913a",
+        "android_client_info": {
+          "package_name": "com.example.captura_lens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtPG5Y1mUZsLU1p5ON7yWRmtAPddzoXEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
