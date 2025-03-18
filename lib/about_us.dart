@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class AboutUs extends StatelessWidget {
@@ -8,7 +7,7 @@ class AboutUs extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(
+        title: const Text(
           'About Us',
           style: TextStyle(
               fontWeight: FontWeight.bold,fontSize: 25),

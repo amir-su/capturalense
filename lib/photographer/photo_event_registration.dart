@@ -2,7 +2,6 @@ import 'package:captura_lens/constants.dart';
 import 'package:captura_lens/model/notification_model.dart';
 import 'package:captura_lens/model/register_competition_model.dart';
 import 'package:captura_lens/photographer/photo_event_payment.dart';
-import 'package:captura_lens/photographer/photo_login_signup.dart';
 import 'package:captura_lens/services/photographer_controller.dart';
 import 'package:captura_lens/utils/const.dart';
 import 'package:firebase_auth/firebase_auth.dart';
